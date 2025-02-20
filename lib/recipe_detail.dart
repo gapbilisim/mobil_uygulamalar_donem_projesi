@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:recipes/recipe.dart';
-
+//Proje detay sayfası
 class RecipeDetail extends StatefulWidget {
   final Recipe recipe;
   const RecipeDetail({super.key, required this.recipe});
